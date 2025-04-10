@@ -1,1 +1,15 @@
-Documentation
+
+
+Backend low level tasks As discussed in meeting (10-04-2025):
+-------------------------------------------------------------
+
+1) Create sample Order entity and JPA, Service , controller layer
+	Test it with H2 DB and postman
+	Once it works, test it with Postgres DB.
+
+2) Once this works, List the Use cases done by user
+	What are the requests send by UI. ( UI team or desing needs to be known for this.)
+
+3) based on step #2 result, we can create API's in Controllerr Layer.
+
+4) We will also create Entitys, Repository and controller for data other than Order also.
